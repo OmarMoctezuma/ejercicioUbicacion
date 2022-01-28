@@ -45,7 +45,7 @@ public class Ejercicios {
 						}
 					}
 					//Buscamos en diagonal izquierda derecha
-					int contaDiag=0;
+				/*	int contaDiag=0;
 					int posixAux=0;
 					posixAux=posicx-posicy;
 					if (posixAux<0) {
@@ -56,7 +56,7 @@ public class Ejercicios {
 							bandera=true;
 						}
 					contaDiag++;
-					}
+					}*/
 				}
 			}
 		}
